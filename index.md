@@ -21,5 +21,5 @@ my favorite comedians are:
 3. Matt Riffe
 
 Task list
-- [] Hi this should not be checked
+- [ ] Hi this should not be checked
 - [x] this should be checked
