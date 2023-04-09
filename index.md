@@ -25,3 +25,7 @@ my favorite comedians are:
 Task list
 - [ ] Hi this should not be checked
 - [x] this should be checked
+
+the following is just one of the screenshots for this assignment:
+![Screenshot of my terminal](screenshots/1.png)
+
