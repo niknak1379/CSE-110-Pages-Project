@@ -1,5 +1,5 @@
-#Nikan Ostovan's Git Hub Page
-##Some cool stuff about me:
+# Nikan Ostovan's Git Hub Page
+## Some cool stuff about me:
 I have'nt taken CSE110 yet but it is already my **favorite** class, *not really sure why*. 
 > This class is very interesting
 ```
